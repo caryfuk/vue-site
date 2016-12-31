@@ -1,0 +1,21 @@
+{
+  "houses": [
+    {
+      "slug": "projekt-1",
+      "name": "projekt 1",
+      "description": "desc",
+      "images": [
+        {
+          "url": "",
+          "name": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "slug": "projekt-2",
+      "name": "projekt 2",
+      "description": "toto je popisek"
+    }
+  ]
+}
